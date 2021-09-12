@@ -1,6 +1,43 @@
 Muhammad Razan Nadhif
-Malang, Jawa Timur | https://www.linkedin.com/in/razan-nadhif-39a865175/
+Malang, Jawa Timur
+https://www.linkedin.com/in/razan-nadhif-39a865175/
+
+Tentang Saya
+Saya adalah mahasiswa dari Universitas Brawijaya Jurusan Teknologi Informasi. Sangat tertarik 
+mempelajari hal baru dalam teknologi khususnya bidang data dan jaringan. Mempunyai 
+pengalaman magang menjadi dokumentasi & administrasi (Non IT) dan Devops Security (IT).
+
+Kemampuan & Kompetensi
+▪ Devops
+▪ Network Security
+▪ Database Administration
+▪ Python
+▪ Microsoft Office
 
 Pengalaman Kerja
+CV. Technobit Indonesia (Malang, Jawa Timur)
+Devops Security (Juni 2021 – Agustus 2021)
+• Membuat Web Server
+• Membuat Database Server
+• Melakukan Security Testing
 
+Sekretariat Wakil Presiden RI (Jakarta, DKI Jakarta)
+Dokumentasi dan Administrasi Komunikasi Informasi Publik (Januari 2017-November 2017)
+• Mendokumentasikan kegiatan kegiatan wakil presiden dan staff sekretariat wakil presiden RI. 
+• Mengedit hasil liputan wakil presiden. 
+• Transkrip audio hasil liputan wakil presiden ke bentuk dokumen (word). 
+• Mengarsip dan mengirim dokumen. 
+• Membantu dan memperbaiki (troubleshooting) pada komputer staff.
 
+Pendidikan
+Universitas Brawijaya (2018 - Sekarang)
+S1 Teknologi Informasi
+
+SMK Negeri 4 Malang (2015 - 2018)
+Jurusan Teknik Komputer dan Jaringan
+
+Kepanitiaan
+Feelit (Ospek Jurusan) (2018 - 2019)
+Divisi Pendamping
+• Bertanggung jawab membuat penugasan mahasiswa baru
+• Membantu mengarahkan mahasiswa baru selama ospek berlangsung
